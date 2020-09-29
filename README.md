@@ -23,7 +23,9 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
 ## Clues and Answers
 * **Clue 1:** View the source code of the page to find the first clue (Go to Bestestest Friend .html).
   * **Solution:** Open akshat.html in the same domain.
-* **Clue 2:** 
+* **Clue 2:** Look at the top left corner -> bottom right corner -> top right corner -> bottom left corner.
+  * **Solution:** Double click the text on the bottom left corner.
+* **Clue 3:**
   * **Solution:**
 
 ## Requirements

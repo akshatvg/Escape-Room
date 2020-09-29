@@ -26,7 +26,7 @@ body.addEventListener('click', function () {
 
 // Clue 1
 $("#startJourney").click(function () {
-    window.location.href = "/clue1"
+    window.location.href = "/clue1";
 });
 
 console.clear();
