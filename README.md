@@ -27,8 +27,10 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
   * **Solution:** Double click the text on the bottom left corner.
 * **Clue 3:** Find the odd one out.
   * **Solution:** There is a rhino in between all the elephants. Double click on the rhino to proceed.
-* **Clue 4:** 
-  * **Solution:**
+* **Clue 4:** Personalised Question: Where was the first time we went outside alone without anyone else?
+  * **Solution:** Type in *Chocolate Room* and submit the form.
+* **Clue 5:** 
+  * **Solution:** 
 
 ## Requirements
 
