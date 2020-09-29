@@ -24,4 +24,17 @@ body.addEventListener('click', function () {
     $("#autoPlayMusic")[0].play();
 });
 
+// Submit Answer
+$("#submitAnswer").click(function () {
+    var ruleTrivia = document.getElementById("ruleTrivia").value;
+    var result = ruleTrivia.toString().toLowerCase();
+    var finalResult = result.includes("surprise");
+    if (finalResult == true) {
+        window.location.href = "/ggwp";
+    }
+    else {
+        document.getElementById("errorHandler").innerHTML = "Wrong Answer. Please Try again.";
+    }
+});
+
 console.clear();

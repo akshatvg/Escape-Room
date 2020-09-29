@@ -31,10 +31,10 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
   * **Solution:** Type in *Chocolate Room* and submit the form.
 * **Clue 5:** Choice Question: Double click the best picture.
   * **Solution:** Double click the picture outside Lassi Shop.
-* **Clue 6:** 
-  * **Solution:**
-* **Clue 7:** 
-  * **Solution:**
+* **Clue 6:** Watch the video and move on.
+  * **Solution:** Just watch the video and move on to the next step.
+* **Clue 7:** What's Rule 11?
+  * **Solution:** The full rule won't be disclosed here but any answer as accepted as long as it has the word *surprise* in it.
 * **Clue 8:** 
   * **Solution:**
 * **Clue 9:** 
