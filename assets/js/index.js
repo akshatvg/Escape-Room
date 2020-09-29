@@ -19,4 +19,14 @@
 
 })(jQuery);
 
-// console.clear();
+// Play Music
+body.addEventListener('click', function () {
+    $("#autoPlayMusic")[0].play();
+});
+
+// Clue 1
+$("#startJourney").click(function () {
+    window.location.href = "/clue1"
+});
+
+console.clear();
