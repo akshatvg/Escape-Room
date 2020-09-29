@@ -19,4 +19,4 @@
 
 })(jQuery);
 
-console.clear();
+// console.clear();

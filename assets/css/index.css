@@ -1,12 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 /* Defaults */
 html,
 body {
     overflow-x: hidden;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     overflow: -moz-scrollbars-none;
     -ms-overflow-style: none;
+    background-image: url("../img/background.jpg");
+    background-color: #6590D5;
+    background-position: center center;
+    height: 100vh;
+    background-size: cover;
+    color: white;
 }
 
 /* Button Outline */
@@ -26,7 +32,7 @@ button {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    background-color: #222831;
+    background-color: #6590D5;
     -webkit-box-shadow: 0 24px 64px rgba(0, 0, 0, 0.24);
     box-shadow: 0 24px 64px rgba(0, 0, 0, 0.24);
     border-radius: 16px;
@@ -47,7 +53,7 @@ button {
     -webkit-transform: none;
     -ms-transform: none;
     transform: none;
-    background-color: #222831;
+    background-color: #6590D5;
     border-radius: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -172,8 +178,8 @@ button:focus {
 }
 
 /* Sidenav */
-#sidenav-1 {
-    border-right: 15px solid #00ADB5;
+.sidenav {
+    border-right: 15px solid #107BE5;
     color: black;
 }
 
@@ -185,11 +191,11 @@ button:focus {
 
 /* Active Sidebar */
 #active {
-    color: #00ADB5;
+    color: #107BE5;
 }
 
 #active-icon {
-    color: #00ADB5;
+    color: #107BE5;
 }
 
 #active::after {
@@ -201,7 +207,7 @@ button:focus {
     top: 15px;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    border-right: 20px solid #00ADB5;
+    border-right: 20px solid #107BE5;
 }
 
 /* Overlap Main Remove */
@@ -211,17 +217,17 @@ header {
 
 /* Divider */
 .divider {
-    border: 1px solid #00ADB5;
+    border: 1px solid #107BE5;
     width: 100%;
 }
 
 .border-bottom-md {
-    border-bottom: 2px solid #00ADB5;
+    border-bottom: 2px solid #107BE5;
     width: 175px;
 }
 
 .border-bottom-sm {
-    border-bottom: 2px solid #00ADB5;
+    border-bottom: 2px solid #107BE5;
     width: 120px;
 }
 
@@ -262,7 +268,117 @@ header {
     border-radius: 20px;
 }
 
-/* Modals */
-#modal {
-    transform: translateY(7%) scaleX(1) !important;
+/* Headings */
+h3 {
+    font-size: 1.15rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.28rem;
+}
+
+.heading-underline {
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+}
+
+/* Overlay */
+.overlay-text {
+    background-color: rgba(0, 0, 0, 0.664);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+/* Buttons */
+.btn-mystery,
+.btn-mystery:hover,
+.btn-mystery:focus {
+    background-color: #141C25;
+    color: white;
+    border-radius: 30px;
+    min-width: 200px;
+    max-width: 350px;
+    min-height: 45px;
+    max-height: 55px;
+}
+
+/* Animation Defaults */
+.animated {
+    -webkit-animation-name: bounceIn;
+    -webkit-animation-duration: 4s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: ease-out;
+    -webkit-animation-fill-mode: forwards;
+    animation-name: bounceIn;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+/* Bounce animation */
+@-webkit-keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        -webkit-transform: translateY(0);
+    }
+
+    40% {
+        -webkit-transform: translateY(-10px);
+    }
+
+    60% {
+        -webkit-transform: translateY(-5px);
+    }
+
+}
+
+@keyframes bounce {
+
+    20%,
+    53%,
+    80%,
+    from,
+    to {
+        -webkit-animation-timing-function: cubic-bezier(.215, .61, .355, 1);
+        animation-timing-function: cubic-bezier(.215, .61, .355, 1);
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0)
+    }
+
+    40%,
+    43% {
+        -webkit-animation-timing-function: cubic-bezier(.755, .050, .855, .060);
+        animation-timing-function: cubic-bezier(.755, .050, .855, .060);
+        -webkit-transform: translate3d(0, -30px, 0);
+        transform: translate3d(0, -30px, 0)
+    }
+
+    70% {
+        -webkit-animation-timing-function: cubic-bezier(.755, .050, .855, .060);
+        animation-timing-function: cubic-bezier(.755, .050, .855, .060);
+        -webkit-transform: translate3d(0, -15px, 0);
+        transform: translate3d(0, -15px, 0)
+    }
+
+    90% {
+        -webkit-transform: translate3d(0, -4px, 0);
+        transform: translate3d(0, -4px, 0)
+    }
+
+}
+
+bounce {
+    -webkit-animation-name: bounce;
+    animation-name: bounce;
+    -webkit-transform-origin: center bottom;
+    transform-origin: center bottom
 }
