@@ -37,10 +37,10 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
   * **Solution:** The full rule won't be disclosed here but any answer as accepted as long as it has the word *surprise* in it.
 * **Clue 8:** I love you both because and despite. Which movie does this remind you of?
   * **Solution:** The answer is *Set It Up*.
-* **Clue 9:** 
-  * **Solution:**
-* **Clue 10:** 
-  * **Solution:**
+* **Clue 9:** Do you remember what we first bonded over?
+  * **Solution:** The answer is *memes*.
+* **Clue 10:** What is the full form of KKG?
+  * **Solution:** The answer is *Kutti Kamini Gawar*.
 
 ## Requirements
 
