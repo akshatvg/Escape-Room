@@ -26,11 +26,11 @@ body.addEventListener('click', function () {
 
 // Submit Answer
 $("#submitAnswer").click(function () {
-    var firstTimeOut = document.getElementById("firstTimeOutside").value;
-    var result = firstTimeOut.toString().toLowerCase();
-    var finalResult = result.includes("chocolate room");
+    var movieTrivia = document.getElementById("movieTrivia").value;
+    var result = movieTrivia.toString().toLowerCase();
+    var finalResult = result.includes("set it up");
     if (finalResult == true) {
-        window.location.href = "/nextclue";
+        window.location.href = "/almostthere";
     }
     else {
         document.getElementById("errorHandler").innerHTML = "Wrong Answer. Please Try again.";

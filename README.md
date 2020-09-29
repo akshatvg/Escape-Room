@@ -35,8 +35,8 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
   * **Solution:** Just watch the video and move on to the next step.
 * **Clue 7:** What's Rule 11?
   * **Solution:** The full rule won't be disclosed here but any answer as accepted as long as it has the word *surprise* in it.
-* **Clue 8:** 
-  * **Solution:**
+* **Clue 8:** I love you both because and despite. Which movie does this remind you of?
+  * **Solution:** The answer is *Set It Up*.
 * **Clue 9:** 
   * **Solution:**
 * **Clue 10:** 
