@@ -1,27 +1,34 @@
-# Repo Name
+# Escape Room
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/<Repo>?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/<Repo>?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/<Repo>?style=social)](https://github.com/akshatvg/<Repo>/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/<Repo>?style=social&logo=git)](https://github.com/akshatvg/<Repo>/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/Escape-Room?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/Escape-Room?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/Escape-Room?style=social)](https://github.com/akshatvg/Escape-Room/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/Escape-Room?style=social&logo=git)](https://github.com/akshatvg/Escape-Room/network)
 
-Project description comes here.
+Client side escape room with mini-tasks leading to a final prize for my friend's birthday.
 
 <p align="center">
-<a href="#!">
-<img src="https://github.com/akshatvg/<Repo>/blob/master/Assets/app-icon-64%402x.png" width="120px" height="120px" alt="<Repo> Logo"/>
+<a href="https://escaperoom.akshatvg.com">
+<img src="assets/img/favicon.png" width="120px" alt="Escape Room Logo"/>
 </a>
 </p>
 
-![Generic badge](https://img.shields.io/badge/Random-Swag-orange) 
+![Generic badge](https://img.shields.io/badge/Escape-Room-orange) 
 
-#### Link for [demo](#!) 
-[![Generic badge](https://img.shields.io/badge/view-demo-orange)](#!)
+#### Link for [demo](https://escaperoom.akshatvg.com) 
+[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://escaperoom.akshatvg.com)
 
 ## Useful Links
 
-- [Actual Website](#!)
+- [Actual Website](https://escaperoom.akshatvg.com)
+- [Final Prize Website](https://rastogi.codes)
+
+## Clues and Answers
+* **Clue 1:** View the source code of the page to find the first clue (Go to Bestestest Friend .html).
+  * **Solution:** Open akshat.html in the same domain.
+* **Clue 2:** 
+  * **Solution:**
 
 ## Requirements
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/<Repo>?logo=javascript&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/Escape-Room?logo=html&style=social)](https://github.com/akshatvg/)
 
 The source code of this project is written in **`HTML/CSS/JS`**. So, you do not require anything extra to run this project.
 
@@ -78,9 +85,9 @@ ______      _               _   _               _
 
 ## License
 
-**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/<Repo>/blob/master/LICENSE)**
+**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/Escape-Room/blob/master/LICENSE)**
 
-[![GitHub license](https://img.shields.io/github/license/akshatvg/<Repo>?style=social&logo=github)](https://github.com/akshatvg/<Repo>/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
+[![GitHub license](https://img.shields.io/github/license/akshatvg/Escape-Room?style=social&logo=github)](https://github.com/akshatvg/Escape-Room/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
 
 ---------
 
