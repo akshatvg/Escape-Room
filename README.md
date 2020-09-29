@@ -29,8 +29,18 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
   * **Solution:** There is a rhino in between all the elephants. Double click on the rhino to proceed.
 * **Clue 4:** Personalised Question: Where was the first time we went outside alone without anyone else?
   * **Solution:** Type in *Chocolate Room* and submit the form.
-* **Clue 5:** 
-  * **Solution:** 
+* **Clue 5:** Choice Question: Double click the best picture.
+  * **Solution:** Double click the picture outside Lassi Shop.
+* **Clue 6:** 
+  * **Solution:**
+* **Clue 7:** 
+  * **Solution:**
+* **Clue 8:** 
+  * **Solution:**
+* **Clue 9:** 
+  * **Solution:**
+* **Clue 10:** 
+  * **Solution:**
 
 ## Requirements
 
