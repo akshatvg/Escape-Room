@@ -25,7 +25,9 @@ Client side escape room with mini-tasks leading to a final prize for my friend's
   * **Solution:** Open akshat.html in the same domain.
 * **Clue 2:** Look at the top left corner -> bottom right corner -> top right corner -> bottom left corner.
   * **Solution:** Double click the text on the bottom left corner.
-* **Clue 3:**
+* **Clue 3:** Find the odd one out.
+  * **Solution:** There is a rhino in between all the elephants. Double click on the rhino to proceed.
+* **Clue 4:** 
   * **Solution:**
 
 ## Requirements

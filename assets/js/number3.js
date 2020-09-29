@@ -25,8 +25,8 @@ body.addEventListener('click', function () {
 });
 
 // Double Click
-$("#dblClick").dblclick(function () {
-    window.location.href = "/number3";
+$(".even-one").dblclick(function () {
+    window.location.href = "/chauthaclue";
 });
 
 console.clear();
