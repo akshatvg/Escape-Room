@@ -382,3 +382,68 @@ bounce {
     -webkit-transform-origin: center bottom;
     transform-origin: center bottom
 }
+
+/* Directions */
+.top-left {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    color: rgba(128, 128, 128, 0.616);
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+    color: rgba(128, 128, 128, 0.719);
+}
+
+.top-right {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    color: rgba(128, 128, 128, 0.616);
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+    color: rgba(128, 128, 128, 0.288);
+}
+
+/* D-None-Small */
+@media only screen and (max-width: 980px) {
+
+    #d-none-small,
+    .top-left,
+    .bottom-right,
+    .top-right,
+    .bottom-left {
+        display: none;
+    }
+
+    .phones-direction {
+        display: block;
+        position: absolute;
+        top: 0px;
+        text-align: center;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+}
+
+@media only screen and (min-width: 981px) {
+    .phones-direction {
+        display: none;
+    }
+
+    #d-none-small,
+    .top-left,
+    .bottom-right,
+    .top-right,
+    .bottom-left {
+        display: block;
+    }
+}
