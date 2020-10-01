@@ -2,7 +2,7 @@
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/Escape-Room?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/Escape-Room?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/Escape-Room?style=social)](https://github.com/akshatvg/Escape-Room/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/Escape-Room?style=social&logo=git)](https://github.com/akshatvg/Escape-Room/network)
 
-Client side escape room with mini-tasks leading to a final prize for my friend's birthday.
+Client side escape room with mini-tasks leading to a final prize for [@muskanrastogi1](https://github.com/muskanrastogi1)'s birthday.
 
 <p align="center">
 <a href="https://escaperoom.akshatvg.com">
